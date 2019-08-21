@@ -24,3 +24,4 @@ Ejecucion
 ------------------------------------------------------------------------------------------------------------------
 1) Abrir la linea de comandos conocida como "CMD" en windows o "Terminal" en el caso de usar macOS
 2) Arrastrar el archivo practicalNotes.py a la ventana de la linea de comandos.
+3) Presionar "Enter"
