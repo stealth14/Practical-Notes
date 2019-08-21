@@ -5,10 +5,10 @@ Aplicacion de notas desarrollada en python junto con el framework kivy. Puede se
 Caracteristicas
 
 Touch interface
-Manejo simple e intuitivo
-Creacion de notas
-Creacion de categorias
-Agregar encabezados automaticos a las notas
+,Manejo simple e intuitivo
+,Creacion de notas
+,Creacion de categorias
+,Agregar encabezados automaticos a las notas
 
 Instalacion
 ------------------------------------------------------------------------------------------------------------------
