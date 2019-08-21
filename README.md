@@ -32,3 +32,9 @@ Mac
 2) Escribir "python3 " con el espacio incluido.
 3) Arrastrar el archivo practicalNotes.py a la ventana de la linea de comandos.
 4) Presionar "Enter"
+
+Linux
+1) Abrir la linea de comandos conocida como "Terminal"
+2) Escribir "python3 " con el espacio incluido.
+3) Arrastrar el archivo practicalNotes.py a la ventana de la linea de comandos.
+4) Presionar "Enter"
