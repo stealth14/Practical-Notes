@@ -9,7 +9,7 @@ Instalacion
 
 https://www.python.org/downloads/
 
-1) Instalar kivy
+2) Instalar kivy
 
 Mac
 https://kivy.org/doc/stable/installation/installation-osx.html
@@ -22,6 +22,13 @@ https://kivy.org/doc/stable/installation/installation-linux.html
 
 Ejecucion
 ------------------------------------------------------------------------------------------------------------------
-1) Abrir la linea de comandos conocida como "CMD" en windows o "Terminal" en el caso de usar macOS
+Windows
+1) Abrir la linea de comandos conocida como "CMD" 
 2) Arrastrar el archivo practicalNotes.py a la ventana de la linea de comandos.
 3) Presionar "Enter"
+
+Mac
+1) Abrir la linea de comandos conocida como "Terminal"
+2) Escribir "python3 " con el espacio incluido.
+3) Arrastrar el archivo practicalNotes.py a la ventana de la linea de comandos.
+4) Presionar "Enter"
