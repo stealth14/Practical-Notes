@@ -9,7 +9,7 @@ Instalacion
 
 https://www.python.org/downloads/
 
-2) Instalar kivy
+2)Instalar kivy
 
 Mac
 https://kivy.org/doc/stable/installation/installation-osx.html
