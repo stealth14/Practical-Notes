@@ -31,12 +31,12 @@ https://kivy.org/doc/stable/installation/installation-linux.html
 Ejecucion
 ------------------------------------------------------------------------------------------------------------------
 Windows
-1) Abrir la linea de comandos conocida como "CMD" 
+1) Abrir el "CMD" 
 2) Arrastrar el archivo practicalNotes.py a la ventana de la linea de comandos.
 3) Presionar "Enter"
 
 Mac
-1) Abrir la linea de comandos conocida como "Terminal"
+1) Abrir "Terminal"
 2) Escribir "python3 " con el espacio incluido.
 3) Arrastrar el archivo practicalNotes.py a la ventana de la linea de comandos.
 4) Presionar "Enter"
